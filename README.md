@@ -24,6 +24,8 @@ To optimize the data visualization process, a thorough cleansing was performed. 
 # Data Analysis
 
 1. Timeline Distribution (Year on Year Growth)
+<img width="1171" alt="Screenshot 2567-04-02 at 3 06 32 AM" src="https://github.com/baabhishek/Netflix-Data-Analysis-Dashboard-Netflix-Home-Page-Theme/assets/165395155/860e5d45-e84c-4045-a117-3179e55246e7">
+
 This interactive dashboard illustrates Netflix's remarkable growth over the years. It features an area chart and filters for easy exploration. Showtime soared, with movies up by an astounding 59,600%, and TV shows by an impressive 30,200% from 2008 to 2021. Since 2015, movies experienced a dazzling 1,143.75% spike. Netflix's global expansion post-2015 led to availability in 190+ countries by 2016. However, the post-2019 pandemic period marked a downturn in both movies and TV shows.
 
 2. Global Shows Distribution
