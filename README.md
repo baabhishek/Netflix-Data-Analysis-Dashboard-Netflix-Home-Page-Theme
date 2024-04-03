@@ -28,10 +28,12 @@ To optimize the data visualization process, a thorough cleansing was performed. 
 
 This interactive dashboard illustrates Netflix's remarkable growth over the years. It features an area chart and filters for easy exploration. Showtime soared, with movies up by an astounding 59,600%, and TV shows by an impressive 30,200% from 2008 to 2021. Since 2015, movies experienced a dazzling 1,143.75% spike. Netflix's global expansion post-2015 led to availability in 190+ countries by 2016. However, the post-2019 pandemic period marked a downturn in both movies and TV shows.
 
-2. Global Shows Distribution
+2. Global Shows Distribution:
+<img width="1220" alt="Screenshot 2567-04-02 at 3 08 49 AM" src="https://github.com/baabhishek/Netflix-Data-Analysis-Dashboard-Netflix-Home-Page-Theme/assets/165395155/5c61cd62-a64e-425b-b795-2743765923d3">
+
 This dashboard focuses on Netflix's global impact, utilizing a Map chart to showcase content distribution across countries. The United States emerged as a movie hub, contributing 29.62% of total Movie content. Movies dominate with a higher count (5,685) than TV shows (2,282), emphasizing their supremacy. On average, each country boasts a richer library of Movies (72.88) compared to TV Shows (39.34), reflecting the global preference for cinematic content.
 
-# Summary
+# Summary: The Final Report
 <img width="1440" alt="Final Report-Dashboard" src="https://github.com/baabhishek/Netflix-Data-Analysis-Dashboard-Netflix-Home-Page-Theme/assets/165395155/feb89003-7429-45fe-beca-fa742ab5c222">
 - The Netflix data lake houses a vast repository of information, with my analysis centering on user behaviors and content trends across different countries.
 
