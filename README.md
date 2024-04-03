@@ -30,7 +30,7 @@ This interactive dashboard illustrates Netflix's remarkable growth over the year
 This dashboard focuses on Netflix's global impact, utilizing a Map chart to showcase content distribution across countries. The United States emerged as a movie hub, contributing 29.62% of total Movie content. Movies dominate with a higher count (5,685) than TV shows (2,282), emphasizing their supremacy. On average, each country boasts a richer library of Movies (72.88) compared to TV Shows (39.34), reflecting the global preference for cinematic content.
 
 # Summary
-
+<img width="1440" alt="Final Report-Dashboard" src="https://github.com/baabhishek/Netflix-Data-Analysis-Dashboard-Netflix-Home-Page-Theme/assets/165395155/feb89003-7429-45fe-beca-fa742ab5c222">
 - The Netflix data lake houses a vast repository of information, with my analysis centering on user behaviors and content trends across different countries.
 
 - In 2019, Netflix experienced a surge in content additions, led by the United States and India. However, 2020 witnessed a notable decline in new additions. Despite a historical emphasis on movies, Netflix's recent focus on TV shows is apparent.
