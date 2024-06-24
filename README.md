@@ -1,5 +1,7 @@
 # Netflix-Data-Analysis-Dashboard-Netflix-Home-Page-Theme
 This project focuses on developing a Tableau dashboard for Netflix, which includes data cleaning and manipulation. Using visualizations, I have analyzed user engagement metrics, content performance, and geographic trends. The dashboard will provide actionable insights for strategic decision-making.
+![Android_Collage_1920x1080__UCAN_En](https://github.com/baabhishek/Netflix-Data-Analysis-Dashboard-Netflix-Home-Page-Theme/assets/165395155/9ed6b235-bfe0-4554-bc39-73f3ad29049c)
+
 # Introduction To Netflix
 Netflix, a global entertainment giant, boasts 260.28 million paid memberships across 190 countries, offering a vast array of content, including TV series, documentaries, and feature films. Originating from a DVD rental service in 1997, Netflix's meteoric rise now sees over 8,000 titles captivating a user base of 200 million subscribers as of mid-2020.
 Dive into Netflix's data with this visualization project! Explore where Netflix is popular, how its content has changed over time, and what viewers love the most. 
