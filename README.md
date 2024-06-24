@@ -46,4 +46,6 @@ This dashboard focuses on Netflix's global impact, utilizing a Map chart to show
 - The dashboard offers a detailed summary of content distribution, highlighting regional preferences and guiding content strategies for different countries and industries. Netflix's changing approach, as shown in the data, is in line with the platform's dedication to meeting the varied needs of viewers.
 
 # For more access to Tableau dashboards, copy & click the link below, 
+![giphy](https://github.com/baabhishek/Netflix-Data-Analysis-Dashboard-Netflix-Home-Page-Theme/assets/165395155/0200c8bb-2842-4edc-973e-595bdab8c682)
+
 https://public.tableau.com/app/profile/abhishek.senapati/viz/NetflixThemeDashboard/NetflixDashboard
